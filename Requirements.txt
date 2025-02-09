@@ -1,0 +1,7 @@
+os
+numpy
+openai 
+faiss-cpu 
+langchain
+python-docx
+sentence-transformers 
